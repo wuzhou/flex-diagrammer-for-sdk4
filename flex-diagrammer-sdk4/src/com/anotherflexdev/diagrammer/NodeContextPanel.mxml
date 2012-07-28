@@ -18,9 +18,9 @@
 			<mx:SetProperty name="width" value="224"/>
 			<mx:AddChild position="lastChild">
 				<mx:Canvas x="25" id="msgCanvas" width="141" height="68" verticalCenter="0">
-					<mx:Label x="38.5" y="10" text="确认删除?" fontWeight="bold" fontSize="12"/>
-					<mx:Button x="10" y="38" label="是" width="47" click="dispatchEvent(new MouseEvent('removeNode'))"/>
-					<mx:Button x="82" y="38" label="否" width="49" click="this.currentState=null"/>
+					<mx:Label x="38.5" y="10" text="Remove this node?" fontWeight="bold" fontSize="12"/>
+					<mx:Button x="10" y="38" label="Yes" width="47" click="dispatchEvent(new MouseEvent('removeNode'))"/>
+					<mx:Button x="82" y="38" label="No" width="49" click="this.currentState=null"/>
 				</mx:Canvas>
 			</mx:AddChild>
 			<mx:SetProperty name="height" value="98"/>

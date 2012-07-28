@@ -34,9 +34,9 @@
 			<mx:SetProperty name="width" value="218"/>
 			<mx:AddChild position="lastChild">
 				<mx:Canvas x="22" y="10" width="138" height="71" id="msgCanvas">
-					<mx:Label x="37" y="11" text="确认删除?" fontWeight="bold" fontSize="12"/>
-					<mx:Button x="10" y="39" label="是" width="47" click="dispatchEvent(new Event('removeLink'))"/>
-					<mx:Button x="79" y="39" label="否" width="49" click="this.currentState=null"/>
+					<mx:Label x="37" y="11" text="Remove this line?" fontWeight="bold" fontSize="12"/>
+					<mx:Button x="10" y="39" label="Yes" width="47" click="dispatchEvent(new Event('removeLink'))"/>
+					<mx:Button x="79" y="39" label="No" width="49" click="this.currentState=null"/>
 				</mx:Canvas>
 			</mx:AddChild>
 			<mx:SetProperty name="height" value="91"/>
