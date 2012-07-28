@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Canvas xmlns:mx="http://www.adobe.com/2006/mxml" enabled="{target != null}">
+	<mx:Script>
+		<![CDATA[
+			[Bindable] public var target:Diagram;
+			
+			private function handleZoomChange():void {
+				if(target) {
+					target.scaleX = (zoomSlider.value/100);				
+					target.scaleY = (zoomSlider.value/100);				
+				}
+			}
+		]]>
+	</mx:Script>
+	<mx:Image source="@Embed(source='./assets/images/zoom-img.png')"/>
+	<mx:VSlider x="49" y="30" height="224" minimum="50" maximum="100" value="100" snapInterval="1" id="zoomSlider" liveDragging="true" allowTrackClick="true" change="handleZoomChange()"/>
+	<mx:Label x="8" y="19" text="{zoomSlider.value} %" fontSize="9" fontWeight="bold"/>
+</mx:Canvas>

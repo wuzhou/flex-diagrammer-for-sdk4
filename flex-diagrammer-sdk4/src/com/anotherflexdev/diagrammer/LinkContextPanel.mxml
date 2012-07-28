@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GenericLinkContextPanel  xmlns="com.anotherflexdev.diagrammer.*" xmlns:mx="http://www.adobe.com/2006/mxml" xmlns:buttons="com.anotherflexdev.ui.buttons.*"  width="79" height="45" verticalScrollPolicy="off" horizontalScrollPolicy="off" resizeEffect="{resize}" clipContent="true" styleName="Balloon2">
+	<mx:Style source="./assets/style/balloon.css"/>
+	<mx:Script>
+		<![CDATA[
+			import mx.core.Application;
+			import mx.effects.easing.Bounce;
+			
+			private function handleRemoveClick(event:Event):void {
+				this.currentState = "removeQuestion";
+			}
+			
+			private function handleLabelMeClick(event:Event):void {
+				this.currentState = "labelMe";
+			}
+			
+			private function handleTxLinkNameKeyUp(event:KeyboardEvent):void {
+				if(event.keyCode == Keyboard.ESCAPE) {
+					this.currentState = null;				
+				} else if(event.keyCode == Keyboard.ENTER){
+					this.currentState = null;
+					dispatchEvent(new LabelLinkEvent(this.txLinkName.text));
+				}
+			}
+			
+		]]>
+	</mx:Script>
+	<mx:Metadata>
+		[Event(name="removeLink", type="flash.events.Event")]
+		[Event(name="labelLink", type="LabelLinkEvent")]
+	</mx:Metadata>
+	<states>
+		<mx:State name="removeQuestion">
+			<mx:SetProperty name="width" value="218"/>
+			<mx:AddChild position="lastChild">
+				<mx:Canvas x="22" y="10" width="138" height="71" id="msgCanvas">
+					<mx:Label x="37" y="11" text="确认删除?" fontWeight="bold" fontSize="12"/>
+					<mx:Button x="10" y="39" label="是" width="47" click="dispatchEvent(new Event('removeLink'))"/>
+					<mx:Button x="79" y="39" label="否" width="49" click="this.currentState=null"/>
+				</mx:Canvas>
+			</mx:AddChild>
+			<mx:SetProperty name="height" value="91"/>
+			<mx:RemoveChild target="{glowbutton1}"/>
+			<mx:RemoveChild target="{image1}"/>
+		</mx:State>
+		<mx:State name="labelMe" enterState="txLinkName.setFocus()">
+			<mx:RemoveChild target="{image1}"/>
+			<mx:RemoveChild target="{glowbutton0}"/>
+			<mx:SetProperty name="width" value="181"/>
+			<mx:SetProperty name="height" value="109"/>
+			<mx:SetStyle target="{glowbutton1}" name="right" value="10"/>
+			<mx:AddChild position="lastChild">
+				<mx:TextInput id="txLinkName" x="10" y="40" keyUp="handleTxLinkNameKeyUp(event)" text="{this.linkName}"/>
+			</mx:AddChild>
+			<mx:AddChild position="lastChild">
+				<mx:Label x="11" y="19" text="Link label"/>
+			</mx:AddChild>
+			<mx:AddChild position="lastChild">
+				<mx:Button x="23.5" y="70" label="OK" width="63" click="this.currentState=null; dispatchEvent(new LabelLinkEvent(this.txLinkName.text));"/>
+			</mx:AddChild>
+			<mx:AddChild position="lastChild">
+				<mx:Button x="94.5" y="70" label="Cancel" click="currentState=null"/>
+			</mx:AddChild>
+		</mx:State>
+	</states>
+	<buttons:GlowButton source="@Embed(source='./assets/images/btn-remove.png')" glowColor="#000000" y="7" click="handleRemoveClick(event)" right="44" id="glowbutton1"/>
+	<buttons:GlowButton source="@Embed(source='./assets/images/btn-label.png')" glowColor="#000000" y="7" click="handleLabelMeClick(event)" right="10" id="glowbutton0"/>
+	<mx:Resize id="resize" easingFunction="{Bounce.easeOut}"/>
+	<mx:Image bottom="1" id="image1" horizontalCenter="0" source="@Embed(source='/com/anotherflexdev/diagrammer/assets/images/balloon-edge.png')">
+	</mx:Image>
+</GenericLinkContextPanel>

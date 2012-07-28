@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="drawing new.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <filter
+       inkscape:collect="always"
+       id="filter4103"
+       x="-0.144"
+       width="1.288"
+       y="-0.144"
+       height="1.288">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.4467619"
+         id="feGaussianBlur4105" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3397">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.3478206"
+         id="feGaussianBlur3399" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3279">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.3418206"
+         id="feGaussianBlur3281" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.15"
+     inkscape:cx="549.48193"
+     inkscape:cy="358.45356"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="701"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="278.58844,549.49924"
+       id="guide3370" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="349.33235,499.04622"
+       id="guide3372" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="582.91165,476.63655"
+       id="guide4917" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.35209835000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3401"
+       width="68.722595"
+       height="120.28887"
+       x="548.65076"
+       y="617.88037"
+       ry="0"
+       inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/balloon.png"
+       inkscape:export-xdpi="59.855907"
+       inkscape:export-ydpi="59.855907" />
+    <path
+       sodipodi:nodetypes="cccscccccccccc"
+       id="path3387"
+       d="M 586.38556,621.03686 C 602.2046,621.03686 614.93978,633.77204 614.93978,649.59107 L 614.93978,707.29567 C 614.93978,723.11471 602.2046,735.84989 586.38556,735.84989 C 570.56653,735.84989 557.83135,723.11471 557.83135,707.29567 L 557.83135,700.08259 L 557.83135,692.86952 L 557.83135,685.65644 L 550.8434,678.44337 L 557.83135,671.23029 L 557.83135,664.01722 L 557.83135,656.80414 L 557.83135,649.59107 C 557.83135,633.77204 570.56653,621.03686 586.38556,621.03686 z"
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter3397)"
+       inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/balloon.png"
+       inkscape:export-xdpi="59.804886"
+       inkscape:export-ydpi="59.804886" />
+    <g
+       id="g3376"
+       inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/btn-remove.png"
+       inkscape:export-xdpi="48.553978"
+       inkscape:export-ydpi="48.553978">
+      <path
+         sodipodi:type="arc"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.10000001999999997;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4103)"
+         id="path3288"
+         sodipodi:cx="325.06979"
+         sodipodi:cy="142.98235"
+         sodipodi:rx="20.389683"
+         sodipodi:ry="20.389683"
+         d="M 345.45948,142.98235 A 20.389683,20.389683 0 1 1 304.68011,142.98235 A 20.389683,20.389683 0 1 1 345.45948,142.98235 z"
+         transform="translate(46.977448,383.19875)"
+         inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/btn-remove.png"
+         inkscape:export-xdpi="48.553978"
+         inkscape:export-ydpi="48.553978" />
+      <path
+         inkscape:export-ydpi="48.553978"
+         inkscape:export-xdpi="48.553978"
+         inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/btn-remove.png"
+         transform="translate(46.977448,383.19875)"
+         d="M 345.45948,142.98235 A 20.389683,20.389683 0 1 1 304.68011,142.98235 A 20.389683,20.389683 0 1 1 345.45948,142.98235 z"
+         sodipodi:ry="20.389683"
+         sodipodi:rx="20.389683"
+         sodipodi:cy="142.98235"
+         sodipodi:cx="325.06979"
+         id="path2387"
+         style="opacity:1;fill:#333333;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <text
+         inkscape:export-ydpi="48.553978"
+         inkscape:export-xdpi="48.553978"
+         inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/btn-remove.png"
+         id="text2383"
+         y="537.09906"
+         x="358.95502"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         xml:space="preserve"
+         sodipodi:linespacing="125%"><tspan
+           y="537.09906"
+           x="358.95502"
+           id="tspan2385"
+           sodipodi:role="line"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold">x</tspan></text>
+      <rect
+         y="502.86295"
+         x="349.33234"
+         height="46.065807"
+         width="46.065807"
+         id="rect3374"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1.10000001999999997;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       inkscape:export-ydpi="48.553978"
+       inkscape:export-xdpi="48.553978"
+       inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/btn-link.png"
+       id="g4107"
+       transform="translate(52.098232,-72.937524)">
+      <path
+         inkscape:export-ydpi="48.553978"
+         inkscape:export-xdpi="48.553978"
+         inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/btn-remove.png"
+         transform="translate(46.977448,383.19875)"
+         d="M 345.45948,142.98235 A 20.389683,20.389683 0 1 1 304.68011,142.98235 A 20.389683,20.389683 0 1 1 345.45948,142.98235 z"
+         sodipodi:ry="20.389683"
+         sodipodi:rx="20.389683"
+         sodipodi:cy="142.98235"
+         sodipodi:cx="325.06979"
+         id="path4109"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4103)"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:1;fill:#333333;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path4111"
+         sodipodi:cx="325.06979"
+         sodipodi:cy="142.98235"
+         sodipodi:rx="20.389683"
+         sodipodi:ry="20.389683"
+         d="M 345.45948,142.98235 A 20.389683,20.389683 0 1 1 304.68011,142.98235 A 20.389683,20.389683 0 1 1 345.45948,142.98235 z"
+         transform="translate(46.977448,383.19875)"
+         inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/btn-remove.png"
+         inkscape:export-xdpi="48.553978"
+         inkscape:export-ydpi="48.553978" />
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4117"
+         width="46.065807"
+         height="46.065807"
+         x="349.33234"
+         y="502.86295" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 369.62738,515.6628 L 369.62738,522.61428 L 358.32637,522.61428 L 358.32637,529.21625 L 369.62738,529.21625 L 369.62738,536.12889 L 386.40414,525.91526 L 369.62738,515.6628 z"
+         id="path4119"
+         inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/btn-link.png"
+         inkscape:export-xdpi="48.553978"
+         inkscape:export-ydpi="48.553978" />
+    </g>
+    <path
+       style="opacity:1;fill:#333333;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.91999996;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 591.92637,502.86294 L 652.46798,502.86294 L 713.00963,502.86294 L 727.20559,538.90175 L 713.00963,574.94054 L 652.46798,574.94054 L 591.92637,574.94054 L 606.12233,538.90175 L 591.92637,502.86294 z"
+       id="rect4121"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/node-process.png"
+       inkscape:export-xdpi="109.46303"
+       inkscape:export-ydpi="109.46303" />
+    <g
+       id="g4846"
+       transform="translate(-61,-77)">
+      <g
+         inkscape:export-ydpi="35.469788"
+         inkscape:export-xdpi="35.469788"
+         inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/grid2.png"
+         id="g4806">
+        <rect
+           inkscape:export-ydpi="48.816124"
+           inkscape:export-xdpi="48.816124"
+           inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/grid2.png"
+           transform="matrix(0,1,-1,0,0,0)"
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:1.79999995, 1.79999995;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4575"
+           width="1.8357165"
+           height="1.9695787"
+           x="682.51746"
+           y="-464.50247" />
+        <rect
+           inkscape:export-ydpi="48.816124"
+           inkscape:export-xdpi="48.816124"
+           inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/grid2.png"
+           transform="matrix(0,1,-1,0,0,0)"
+           y="-464.50247"
+           x="686.04126"
+           height="1.9695787"
+           width="1.8357165"
+           id="rect4577"
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:1.79999995, 1.79999995;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           inkscape:export-ydpi="48.816124"
+           inkscape:export-xdpi="48.816124"
+           inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/grid2.png"
+           transform="matrix(0,1,-1,0,0,0)"
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:1.79999995, 1.79999995;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4579"
+           width="1.8357165"
+           height="1.9695787"
+           x="689.56512"
+           y="-464.50247" />
+        <rect
+           inkscape:export-ydpi="48.816124"
+           inkscape:export-xdpi="48.816124"
+           inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/grid2.png"
+           transform="matrix(0,1,-1,0,0,0)"
+           y="-464.50247"
+           x="693.08899"
+           height="1.9695787"
+           width="1.8357165"
+           id="rect4581"
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:1.79999995, 1.79999995;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           inkscape:export-ydpi="48.816124"
+           inkscape:export-xdpi="48.816124"
+           inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/grid2.png"
+           transform="matrix(0,1,-1,0,0,0)"
+           y="-464.50247"
+           x="696.61279"
+           height="1.9695787"
+           width="1.8357165"
+           id="rect4589"
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:1.79999995, 1.79999995;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           inkscape:export-ydpi="48.816124"
+           inkscape:export-xdpi="48.816124"
+           inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/grid2.png"
+           transform="matrix(0,1,-1,0,0,0)"
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:1.79999995, 1.79999995;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4591"
+           width="1.8357165"
+           height="1.9695787"
+           x="700.1366"
+           y="-464.50247" />
+        <rect
+           inkscape:export-ydpi="48.816124"
+           inkscape:export-xdpi="48.816124"
+           inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/grid2.png"
+           transform="matrix(0,1,-1,0,0,0)"
+           y="-464.50247"
+           x="703.66046"
+           height="1.9695787"
+           width="1.8357165"
+           id="rect4593"
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:1.79999995, 1.79999995;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           inkscape:export-ydpi="48.816124"
+           inkscape:export-xdpi="48.816124"
+           inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/grid2.png"
+           transform="matrix(0,1,-1,0,0,0)"
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:1.79999995, 1.79999995;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4595"
+           width="1.8357165"
+           height="1.9695787"
+           x="707.18433"
+           y="-464.50247" />
+        <rect
+           inkscape:export-ydpi="48.816124"
+           inkscape:export-xdpi="48.816124"
+           inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/grid2.png"
+           transform="matrix(0,1,-1,0,0,0)"
+           y="-464.50247"
+           x="710.70813"
+           height="1.9695787"
+           width="1.8357165"
+           id="rect4597"
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:1.79999995, 1.79999995;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           inkscape:export-ydpi="48.816124"
+           inkscape:export-xdpi="48.816124"
+           inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/grid2.png"
+           transform="matrix(0,1,-1,0,0,0)"
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:1.79999995, 1.79999995;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4599"
+           width="1.8357165"
+           height="1.9695787"
+           x="717.75586"
+           y="-464.50247" />
+        <rect
+           inkscape:export-ydpi="48.816124"
+           inkscape:export-xdpi="48.816124"
+           inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/grid2.png"
+           transform="matrix(0,1,-1,0,0,0)"
+           y="-464.50247"
+           x="714.23199"
+           height="1.9695787"
+           width="1.8357165"
+           id="rect4601"
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:1.79999995, 1.79999995;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           inkscape:export-ydpi="48.816124"
+           inkscape:export-xdpi="48.816124"
+           inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/grid2.png"
+           transform="matrix(0,1,-1,0,0,0)"
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:1.79999995, 1.79999995;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4603"
+           width="1.8357165"
+           height="1.9695787"
+           x="721.27966"
+           y="-464.50247" />
+      </g>
+      <g
+         inkscape:export-ydpi="35.469788"
+         inkscape:export-xdpi="35.469788"
+         inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/grid2.png"
+         transform="matrix(0,1,-1,0,1185.6483,258.61291)"
+         id="g4820">
+        <rect
+           y="-464.50247"
+           x="682.51746"
+           height="1.9695787"
+           width="1.8357165"
+           id="rect4822"
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:1.79999995, 1.79999995;stroke-dashoffset:0;stroke-opacity:1"
+           transform="matrix(0,1,-1,0,0,0)"
+           inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/grid2.png"
+           inkscape:export-xdpi="48.816124"
+           inkscape:export-ydpi="48.816124" />
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:1.79999995, 1.79999995;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4824"
+           width="1.8357165"
+           height="1.9695787"
+           x="686.04126"
+           y="-464.50247"
+           transform="matrix(0,1,-1,0,0,0)"
+           inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/grid2.png"
+           inkscape:export-xdpi="48.816124"
+           inkscape:export-ydpi="48.816124" />
+        <rect
+           y="-464.50247"
+           x="689.56512"
+           height="1.9695787"
+           width="1.8357165"
+           id="rect4826"
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:1.79999995, 1.79999995;stroke-dashoffset:0;stroke-opacity:1"
+           transform="matrix(0,1,-1,0,0,0)"
+           inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/grid2.png"
+           inkscape:export-xdpi="48.816124"
+           inkscape:export-ydpi="48.816124" />
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:1.79999995, 1.79999995;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4828"
+           width="1.8357165"
+           height="1.9695787"
+           x="693.08899"
+           y="-464.50247"
+           transform="matrix(0,1,-1,0,0,0)"
+           inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/grid2.png"
+           inkscape:export-xdpi="48.816124"
+           inkscape:export-ydpi="48.816124" />
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:1.79999995, 1.79999995;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4830"
+           width="1.8357165"
+           height="1.9695787"
+           x="696.61279"
+           y="-464.50247"
+           transform="matrix(0,1,-1,0,0,0)"
+           inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/grid2.png"
+           inkscape:export-xdpi="48.816124"
+           inkscape:export-ydpi="48.816124" />
+        <rect
+           y="-464.50247"
+           x="700.1366"
+           height="1.9695787"
+           width="1.8357165"
+           id="rect4832"
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:1.79999995, 1.79999995;stroke-dashoffset:0;stroke-opacity:1"
+           transform="matrix(0,1,-1,0,0,0)"
+           inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/grid2.png"
+           inkscape:export-xdpi="48.816124"
+           inkscape:export-ydpi="48.816124" />
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:1.79999995, 1.79999995;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4834"
+           width="1.8357165"
+           height="1.9695787"
+           x="703.66046"
+           y="-464.50247"
+           transform="matrix(0,1,-1,0,0,0)"
+           inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/grid2.png"
+           inkscape:export-xdpi="48.816124"
+           inkscape:export-ydpi="48.816124" />
+        <rect
+           y="-464.50247"
+           x="707.18433"
+           height="1.9695787"
+           width="1.8357165"
+           id="rect4836"
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:1.79999995, 1.79999995;stroke-dashoffset:0;stroke-opacity:1"
+           transform="matrix(0,1,-1,0,0,0)"
+           inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/grid2.png"
+           inkscape:export-xdpi="48.816124"
+           inkscape:export-ydpi="48.816124" />
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:1.79999995, 1.79999995;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4838"
+           width="1.8357165"
+           height="1.9695787"
+           x="710.70813"
+           y="-464.50247"
+           transform="matrix(0,1,-1,0,0,0)"
+           inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/grid2.png"
+           inkscape:export-xdpi="48.816124"
+           inkscape:export-ydpi="48.816124" />
+        <rect
+           y="-464.50247"
+           x="717.75586"
+           height="1.9695787"
+           width="1.8357165"
+           id="rect4840"
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:1.79999995, 1.79999995;stroke-dashoffset:0;stroke-opacity:1"
+           transform="matrix(0,1,-1,0,0,0)"
+           inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/grid2.png"
+           inkscape:export-xdpi="48.816124"
+           inkscape:export-ydpi="48.816124" />
+        <rect
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:1.79999995, 1.79999995;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4842"
+           width="1.8357165"
+           height="1.9695787"
+           x="714.23199"
+           y="-464.50247"
+           transform="matrix(0,1,-1,0,0,0)"
+           inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/grid2.png"
+           inkscape:export-xdpi="48.816124"
+           inkscape:export-ydpi="48.816124" />
+        <rect
+           y="-464.50247"
+           x="721.27966"
+           height="1.9695787"
+           width="1.8357165"
+           id="rect4844"
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:1.79999995, 1.79999995;stroke-dashoffset:0;stroke-opacity:1"
+           transform="matrix(0,1,-1,0,0,0)"
+           inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/grid2.png"
+           inkscape:export-xdpi="48.816124"
+           inkscape:export-ydpi="48.816124" />
+      </g>
+    </g>
+    <g
+       id="g4907"
+       inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/node-actor.png"
+       inkscape:export-xdpi="107.91499"
+       inkscape:export-ydpi="107.91499"
+       transform="matrix(0.7014621,0,0,0.7014621,150.5379,120.39697)">
+      <path
+         id="path4897"
+         d="M 558.45382,564.95254 L 558.45382,619.10917"
+         style="fill:none;fill-rule:evenodd;stroke:#1a1a1a;stroke-width:2.73714004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         style="fill:none;fill-rule:evenodd;stroke:#1a1a1a;stroke-width:2.73714004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 558.16265,618.52684 L 576.50603,649.09914"
+         id="path4899" />
+      <path
+         id="path4901"
+         d="M 558.50603,618.52684 L 540.16265,649.09914"
+         style="fill:none;fill-rule:evenodd;stroke:#1a1a1a;stroke-width:2.73714004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         style="fill:none;fill-rule:evenodd;stroke:#1a1a1a;stroke-width:2.73714004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 558.7972,578.34611 L 527.64258,596.39833"
+         id="path4903" />
+      <path
+         id="path4905"
+         d="M 558.21487,578.34611 L 589.36949,596.39833"
+         style="fill:none;fill-rule:evenodd;stroke:#1a1a1a;stroke-width:2.73714004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+      <path
+         transform="matrix(0.6657625,0,0,0.6657625,186.7049,195.0714)"
+         d="M 579.4177,546.17242 A 20.818274,20.818274 0 1 1 537.78115,546.17242 A 20.818274,20.818274 0 1 1 579.4177,546.17242 z"
+         sodipodi:ry="20.818274"
+         sodipodi:rx="20.818274"
+         sodipodi:cy="546.17242"
+         sodipodi:cx="558.59943"
+         id="path4893"
+         style="opacity:1;fill:#333333;fill-opacity:1;stroke:#1a1a1a;stroke-width:4.11128599;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="arc" />
+    </g>
+    <rect
+       style="opacity:1;fill:#333333;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.91999996;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4915"
+       width="27.496595"
+       height="27.496595"
+       x="-60.086922"
+       y="703.18573"
+       transform="matrix(0.7071068,-0.7071068,0.7071068,0.7071068,0,0)"
+       inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/node-decision.png"
+       inkscape:export-xdpi="108.31384"
+       inkscape:export-ydpi="108.31384" />
+    <text
+       xml:space="preserve"
+       style="font-size:14.56190014000000055px;font-style:normal;font-weight:bold;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+       x="469.93057"
+       y="545.11908"
+       id="text3213"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3215"
+         x="469.93057"
+         y="545.11908">?</tspan></text>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 584.45785,618.86818 C 600.27689,618.86818 613.01207,631.60336 613.01207,647.42239 L 613.01207,705.12699 C 613.01207,720.94603 600.27689,733.68121 584.45785,733.68121 C 568.63882,733.68121 555.90364,720.94603 555.90364,705.12699 L 555.90364,697.91391 L 555.90364,690.70084 L 555.90364,683.48776 L 548.91569,676.27469 L 555.90364,669.06161 L 555.90364,661.84854 L 555.90364,654.63546 L 555.90364,647.42239 C 555.90364,631.60336 568.63882,618.86818 584.45785,618.86818 z"
+       id="rect3284"
+       sodipodi:nodetypes="cccscccccccccc"
+       inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/balloon.png"
+       inkscape:export-xdpi="59.804886"
+       inkscape:export-ydpi="59.804886" />
+    <g
+       inkscape:export-ydpi="48.553978"
+       inkscape:export-xdpi="48.553978"
+       inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/btn-remove.png"
+       id="g3287"
+       transform="translate(117.63478,125.43909)">
+      <path
+         inkscape:export-ydpi="48.553978"
+         inkscape:export-xdpi="48.553978"
+         inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/btn-remove.png"
+         transform="translate(46.977448,383.19875)"
+         d="M 345.45948,142.98235 A 20.389683,20.389683 0 1 1 304.68011,142.98235 A 20.389683,20.389683 0 1 1 345.45948,142.98235 z"
+         sodipodi:ry="20.389683"
+         sodipodi:rx="20.389683"
+         sodipodi:cy="142.98235"
+         sodipodi:cx="325.06979"
+         id="path3289"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4103)"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:1;fill:#333333;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path3291"
+         sodipodi:cx="325.06979"
+         sodipodi:cy="142.98235"
+         sodipodi:rx="20.389683"
+         sodipodi:ry="20.389683"
+         d="M 345.45948,142.98235 A 20.389683,20.389683 0 1 1 304.68011,142.98235 A 20.389683,20.389683 0 1 1 345.45948,142.98235 z"
+         transform="translate(46.977448,383.19875)"
+         inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/btn-remove.png"
+         inkscape:export-xdpi="48.553978"
+         inkscape:export-ydpi="48.553978" />
+      <text
+         sodipodi:linespacing="125%"
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+         x="358.95502"
+         y="537.09906"
+         id="text3293"
+         inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/btn-remove.png"
+         inkscape:export-xdpi="48.553978"
+         inkscape:export-ydpi="48.553978"><tspan
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold"
+           sodipodi:role="line"
+           id="tspan3295"
+           x="358.95502"
+           y="537.09906">x</tspan></text>
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect3297"
+         width="46.065807"
+         height="46.065807"
+         x="349.33234"
+         y="502.86295" />
+    </g>
+    <g
+       transform="translate(113.05647,190.01741)"
+       id="g3299"
+       inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/btn-label.png"
+       inkscape:export-xdpi="48.553978"
+       inkscape:export-ydpi="48.553978">
+      <path
+         sodipodi:type="arc"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter4103)"
+         id="path3301"
+         sodipodi:cx="325.06979"
+         sodipodi:cy="142.98235"
+         sodipodi:rx="20.389683"
+         sodipodi:ry="20.389683"
+         d="M 345.45948,142.98235 A 20.389683,20.389683 0 1 1 304.68011,142.98235 A 20.389683,20.389683 0 1 1 345.45948,142.98235 z"
+         transform="translate(46.977448,383.19875)"
+         inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/btn-remove.png"
+         inkscape:export-xdpi="48.553978"
+         inkscape:export-ydpi="48.553978" />
+      <path
+         inkscape:export-ydpi="48.553978"
+         inkscape:export-xdpi="48.553978"
+         inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/btn-remove.png"
+         transform="translate(46.977448,383.19875)"
+         d="M 345.45948,142.98235 A 20.389683,20.389683 0 1 1 304.68011,142.98235 A 20.389683,20.389683 0 1 1 345.45948,142.98235 z"
+         sodipodi:ry="20.389683"
+         sodipodi:rx="20.389683"
+         sodipodi:cy="142.98235"
+         sodipodi:cx="325.06979"
+         id="path3303"
+         style="opacity:1;fill:#333333;fill-opacity:1;stroke:#1a1a1a;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="arc" />
+      <rect
+         y="502.86295"
+         x="349.33234"
+         height="46.065807"
+         width="46.065807"
+         id="rect3309"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1.10000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+         x="360.3082"
+         y="536.41479"
+         id="text2503"
+         inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/btn-remove.png"
+         inkscape:export-xdpi="48.553978"
+         inkscape:export-ydpi="48.553978"><tspan
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+           sodipodi:role="line"
+           id="tspan2505"
+           x="360.3082"
+           y="536.41479">a</tspan></text>
+    </g>
+    <g
+       id="g3285">
+      <rect
+         inkscape:export-ydpi="60.425102"
+         inkscape:export-xdpi="60.425102"
+         inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/balloon2.png"
+         y="643.44647"
+         x="641.4458"
+         height="68.192772"
+         width="118.79518"
+         id="rect3283"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.40000001000000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="59.804886"
+         inkscape:export-xdpi="59.804886"
+         inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/balloon.png"
+         sodipodi:nodetypes="cccscccccccccc"
+         id="path2463"
+         d="M 643.79833,675.19036 C 643.79833,659.37133 656.53352,646.63615 672.35255,646.63615 L 730.05715,646.63615 C 745.87619,646.63615 758.61137,659.37133 758.61137,675.19036 C 758.61137,691.00939 745.87619,703.74458 730.05715,703.74458 L 722.84407,703.74458 L 715.631,703.74458 L 708.41792,703.74458 L 701.20485,710.73253 L 693.99176,703.74458 L 686.7787,703.74458 L 679.56562,703.74458 L 672.35255,703.74458 C 656.53352,703.74458 643.79833,691.00939 643.79833,675.19036 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter3279)" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 642.11158,672.78072 C 642.11158,656.96169 654.84677,644.22651 670.6658,644.22651 L 728.3704,644.22651 C 744.18944,644.22651 756.92462,656.96169 756.92462,672.78072 C 756.92462,688.59975 744.18944,701.33494 728.3704,701.33494 L 721.15732,701.33494 L 713.94425,701.33494 L 706.73117,701.33494 L 699.5181,708.32289 L 692.30501,701.33494 L 685.09195,701.33494 L 677.87887,701.33494 L 670.6658,701.33494 C 654.84677,701.33494 642.11158,688.59975 642.11158,672.78072 z"
+         id="path2461"
+         sodipodi:nodetypes="cccscccccccccc"
+         inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/balloon.png"
+         inkscape:export-xdpi="59.804886"
+         inkscape:export-ydpi="59.804886" />
+    </g>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.40000001000000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3290"
+       width="118.79518"
+       height="68.192772"
+       x="617.95184"
+       y="748.14532"
+       inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/balloon-no-edge.png"
+       inkscape:export-xdpi="59.804886"
+       inkscape:export-ydpi="59.804886" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter3279)"
+       d="M 620.30434,779.88921 C 620.30434,764.07018 633.03953,751.335 648.85856,751.335 L 706.56316,751.335 C 722.3822,751.335 735.11738,764.07018 735.11738,779.88921 C 735.11738,795.70824 722.3822,808.44343 706.56316,808.44343 L 699.35008,808.44343 L 692.13701,808.44343 L 684.92393,808.44343 L 670.49777,808.44343 L 663.28471,808.44343 L 656.07163,808.44343 L 648.85856,808.44343 C 633.03953,808.44343 620.30434,795.70824 620.30434,779.88921 z"
+       id="path3292"
+       sodipodi:nodetypes="cccsccccccccc"
+       inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/balloon-no-edge.png"
+       inkscape:export-xdpi="59.804886"
+       inkscape:export-ydpi="59.804886" />
+    <path
+       inkscape:export-ydpi="59.804886"
+       inkscape:export-xdpi="59.804886"
+       inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/balloon-no-edge.png"
+       sodipodi:nodetypes="cccsccccccccc"
+       id="path3294"
+       d="M 618.61759,777.47957 C 618.61759,761.66054 631.35278,748.92536 647.17181,748.92536 L 704.87641,748.92536 C 720.69545,748.92536 733.43063,761.66054 733.43063,777.47957 C 733.43063,793.2986 720.69545,806.03379 704.87641,806.03379 L 697.66333,806.03379 L 690.45026,806.03379 L 683.23718,806.03379 L 668.81102,806.03379 L 661.59796,806.03379 L 654.38488,806.03379 L 647.17181,806.03379 C 631.35278,806.03379 618.61759,793.2986 618.61759,777.47957 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.40000001000000002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3296"
+       width="17.590361"
+       height="10.602409"
+       x="691.56628"
+       y="701.03693"
+       inkscape:export-filename="/Users/gilmar/Documents/MyProject/Diagrammer/src/br/com/redbee/diagrammer/assets/images/balloon-edge.png"
+       inkscape:export-xdpi="60.425102"
+       inkscape:export-ydpi="60.425102" />
+  </g>
+</svg>

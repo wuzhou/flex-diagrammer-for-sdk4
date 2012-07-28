@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Canvas  xmlns:mx="http://www.adobe.com/2006/mxml" xmlns:buttons="com.anotherflexdev.ui.buttons.*"  width="46" height="80" verticalScrollPolicy="off" horizontalScrollPolicy="off" rollOut="this.currentState=null; this.width=46; this.height=80;" remove="this.currentState=null; this.width=46; this.height=80;" styleName="Balloon" resizeEffect="{resize}">
+	<mx:Style source="./assets/style/balloon.css"/>
+	<mx:Script>
+		<![CDATA[
+			import mx.effects.easing.Bounce;
+			private function handleRemoveClick(event:Event):void {
+				this.currentState = "removeQuestion";
+			}
+		]]>
+	</mx:Script>
+	<mx:Metadata>
+		[Event(name="removeNode", type="flash.events.MouseEvent")]
+		[Event(name="linkNode", type="flash.events.MouseEvent")]
+	</mx:Metadata>
+	<mx:states>
+		<mx:State name="removeQuestion">
+			<mx:SetProperty name="width" value="224"/>
+			<mx:AddChild position="lastChild">
+				<mx:Canvas x="25" id="msgCanvas" width="141" height="68" verticalCenter="0">
+					<mx:Label x="38.5" y="10" text="确认删除?" fontWeight="bold" fontSize="12"/>
+					<mx:Button x="10" y="38" label="是" width="47" click="dispatchEvent(new MouseEvent('removeNode'))"/>
+					<mx:Button x="82" y="38" label="否" width="49" click="this.currentState=null"/>
+				</mx:Canvas>
+			</mx:AddChild>
+			<mx:SetProperty name="height" value="98"/>
+			<mx:SetProperty target="{linkBtn}" name="y" value="61"/>
+			<mx:SetStyle target="{linkBtn}" name="right" value="10"/>
+			<mx:SetStyle target="{removeBtn}" name="right" value="10"/>
+			<mx:SetProperty target="{removeBtn}" name="y" value="15"/>
+		</mx:State>
+	</mx:states>
+	<buttons:GlowButton id="removeBtn" source="@Embed(source='./assets/images/btn-remove.png')" glowColor="#000000" y="10" click="handleRemoveClick(event)" right="9"/>
+	<buttons:GlowButton id="linkBtn" source="@Embed(source='./assets/images/btn-link.png')" glowColor="#000000" y="42" click="dispatchEvent(new MouseEvent('linkNode', event.bubbles, event.cancelable, event.localX, event.localY, event.relatedObject, event.ctrlKey, event.altKey, event.shiftKey, event.buttonDown))" right="9"/>
+	<mx:Resize id="resize" easingFunction="{Bounce.easeOut}"/>
+</mx:Canvas>
